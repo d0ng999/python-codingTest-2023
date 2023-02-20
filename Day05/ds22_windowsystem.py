@@ -20,4 +20,4 @@ def insertionSort(ary):
 
 fileAry = makeFileList('C:/Program Files/Common Files')
 fileAry = insertionSort(fileAry)
-print('파일명 역순-->', file)
+print('파일명 역순-->', fileAry)
